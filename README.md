@@ -7,7 +7,7 @@ This package needs Laravel/Lumen 5.x or latest
 
 Installing this package through Composer. Require it directly from the Terminal to take the last stable version:
 ```bash
-$ composer require alexbadea/php-lumen-patch-migrator
+$ composer require alex90badea/patch-migration 
 ```
 
 Add Service Provider in `boostrap/app`
