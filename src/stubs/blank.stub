@@ -1,0 +1,15 @@
+<?php
+
+class DummyClass
+{
+    /**
+     * Patch handle.
+     *
+     * @return void
+     */
+    public function handle()
+    {
+        //
+    }
+
+}
