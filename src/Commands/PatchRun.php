@@ -16,7 +16,7 @@ class PatchRun extends Command
      *
      * @var string
      */
-    protected $signature = 'patch:run';
+    protected $signature = 'patch:run {--force : Force the operation to run when in production}';
 
     /**
      * The console command description.
