@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AlexBadea\\PatchMigration\\\\PatchMigrationServiceProvider"
+                "AlexBadea\\PatchMigration\\PatchMigrationServiceProvider"
             ]
         }
     }
